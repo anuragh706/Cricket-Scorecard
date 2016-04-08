@@ -1,0 +1,299 @@
+0.1	Yadav	SE Marsh	no run
+0.2	Yadav	SE Marsh	no run
+0.3	Yadav	SE Marsh	no run
+0.4	Yadav	SE Marsh	no run
+0.5	Yadav	SE Marsh	FOUR
+0.6	Yadav	SE Marsh	no run
+1.1	Sran	Finch	1 run
+1.2	Sran	SE Marsh	no run
+1.3	Sran	SE Marsh	1 run
+1.4	Sran	Finch	1 wide
+1.4	Sran	Finch	no run
+1.5	Sran	Finch	FOUR
+1.6	Sran	Finch	no run
+2.1	Yadav	SE Marsh	no run
+2.2	Yadav	SE Marsh	no run
+2.3	Yadav	SE Marsh	1 run
+2.4	Yadav	Finch	3 runs
+2.5	Yadav	SE Marsh	no run
+2.6	Yadav	SE Marsh	FOUR
+3.1	Sran	Finch	no run
+3.2	Sran	Finch	2 runs
+3.3	Sran	Finch	no run
+3.4	Sran	Finch	1 run
+3.5	Sran	SE Marsh	no run
+3.6	Sran	SE Marsh	FOUR
+4.1	I Sharma	Finch	no run
+4.2	I Sharma	Finch	1 wide
+4.2	I Sharma	Finch	1 run
+4.3	I Sharma	SE Marsh	3 runs
+4.4	I Sharma	Finch	no run
+4.5	I Sharma	Finch	no run
+4.6	I Sharma	Finch	no run
+5.1	Sran	SE Marsh	3 runs
+5.2	Sran	Finch	FOUR
+5.3	Sran	Finch	FOUR
+5.4	Sran	Finch	no run
+5.5	Sran	Finch	no run
+5.6	Sran	Finch	no run
+6.1	I Sharma	SE Marsh	1 run
+6.2	I Sharma	Finch	no run
+6.3	I Sharma	Finch	no run
+6.4	I Sharma	Finch	1 run
+6.5	I Sharma	SE Marsh	FOUR
+6.6	I Sharma	SE Marsh	no run
+7.1	Yadav	Finch	OUT
+7.2	Yadav	Smith	1 wide
+7.2	Yadav	Smith	2 runs
+7.3	Yadav	Smith	no run
+7.4	Yadav	Smith	no run
+7.5	Yadav	Smith	1 run
+7.6	Yadav	SE Marsh	no run
+8.1	I Sharma	Smith	no run
+8.2	I Sharma	Smith	no run
+8.3	I Sharma	Smith	no run
+8.4	I Sharma	Smith	FOUR
+8.5	I Sharma	Smith	FOUR
+8.6	I Sharma	Smith	no run
+9.1	Yadav	SE Marsh	no run
+9.2	Yadav	SE Marsh	1 leg bye
+9.3	Yadav	Smith	no run
+9.4	Yadav	Smith	no run
+9.5	Yadav	Smith	FOUR
+9.6	Yadav	Smith	no run
+10.1	R Dhawan	SE Marsh	no run
+10.2	R Dhawan	SE Marsh	no run
+10.3	R Dhawan	SE Marsh	no run
+10.4	R Dhawan	SE Marsh	no run
+10.5	R Dhawan	SE Marsh	2 runs
+10.6	R Dhawan	SE Marsh	2 runs
+11.1	Yadav	Smith	1 run
+11.2	Yadav	SE Marsh	1 run
+11.3	Yadav	Smith	2 runs
+11.4	Yadav	Smith	3 runs
+11.5	Yadav	SE Marsh	2 runs
+11.6	Yadav	SE Marsh	no run
+12.1	R Dhawan	Smith	1 run
+12.2	R Dhawan	SE Marsh	no run
+12.3	R Dhawan	SE Marsh	no run
+12.4	R Dhawan	SE Marsh	2 runs
+12.5	R Dhawan	SE Marsh	1 run
+12.6	R Dhawan	Smith	1 run
+13.1	Gurkeerat Singh	Smith	1 run
+13.2	Gurkeerat Singh	SE Marsh	1 run
+13.3	Gurkeerat Singh	Smith	no run
+13.4	Gurkeerat Singh	Smith	no run
+13.5	Gurkeerat Singh	Smith	1 run
+13.6	Gurkeerat Singh	SE Marsh	FOUR
+14.1	R Dhawan	Smith	no run
+14.2	R Dhawan	Smith	no run
+14.3	R Dhawan	Smith	FOUR
+14.4	R Dhawan	Smith	no run
+14.5	R Dhawan	Smith	no run
+14.6	R Dhawan	Smith	1 run
+15.1	Gurkeerat Singh	Smith	no run
+15.2	Gurkeerat Singh	Smith	no run
+15.3	Gurkeerat Singh	Smith	FOUR
+15.4	Gurkeerat Singh	Smith	no run
+15.5	Gurkeerat Singh	Smith	1 run
+15.6	Gurkeerat Singh	SE Marsh	no run
+16.1	R Dhawan	Smith	no run
+16.2	R Dhawan	Smith	no run
+16.3	R Dhawan	Smith	no run
+16.4	R Dhawan	Smith	no run
+16.5	R Dhawan	Smith	2 runs
+16.6	R Dhawan	Smith	1 run
+17.1	Gurkeerat Singh	Smith	1 run
+17.2	Gurkeerat Singh	SE Marsh	no run
+17.3	Gurkeerat Singh	SE Marsh	no run
+17.4	Gurkeerat Singh	SE Marsh	no run
+17.5	Gurkeerat Singh	SE Marsh	3 runs
+17.6	Gurkeerat Singh	Smith	1 run
+18.1	Jadeja	Smith	no run
+18.2	Jadeja	Smith	1 run
+18.3	Jadeja	SE Marsh	2 runs
+18.4	Jadeja	SE Marsh	1 run
+18.5	Jadeja	Smith	OUT
+18.6	Jadeja	Bailey	1 run
+19.1	Gurkeerat Singh	Bailey	1 run
+19.2	Gurkeerat Singh	SE Marsh	no run
+19.3	Gurkeerat Singh	SE Marsh	1 run
+19.4	Gurkeerat Singh	Bailey	1 run
+19.5	Gurkeerat Singh	SE Marsh	1 run
+19.6	Gurkeerat Singh	Bailey	1 run
+20.1	Jadeja	Bailey	FOUR
+20.2	Jadeja	Bailey	1 run
+20.3	Jadeja	SE Marsh	no run
+20.4	Jadeja	SE Marsh	no run
+20.5	Jadeja	SE Marsh	1 run
+20.6	Jadeja	Bailey	no run
+21.1	R Dhawan	SE Marsh	no run
+21.2	R Dhawan	SE Marsh	2 runs
+21.3	R Dhawan	SE Marsh	no run
+21.4	R Dhawan	SE Marsh	1 run
+21.5	R Dhawan	Bailey	no run
+21.6	R Dhawan	Bailey	FOUR
+22.1	Jadeja	SE Marsh	no run
+22.2	Jadeja	SE Marsh	no run
+22.3	Jadeja	SE Marsh	1 run
+22.4	Jadeja	Bailey	no run
+22.5	Jadeja	Bailey	1 run
+22.6	Jadeja	SE Marsh	no run
+23.1	R Dhawan	Bailey	FOUR
+23.2	R Dhawan	Bailey	no run
+23.3	R Dhawan	Bailey	1 run
+23.4	R Dhawan	SE Marsh	no run
+23.5	R Dhawan	SE Marsh	FOUR
+23.6	R Dhawan	SE Marsh	no run
+24.1	Jadeja	Bailey	no run
+24.2	Jadeja	Bailey	1 run
+24.3	Jadeja	SE Marsh	no run
+24.4	Jadeja	SE Marsh	no run
+24.5	Jadeja	SE Marsh	2 runs
+24.6	Jadeja	SE Marsh	no run
+25.1	Gurkeerat Singh	Bailey	1 run
+25.2	Gurkeerat Singh	SE Marsh	1 run
+25.3	Gurkeerat Singh	Bailey	1 run
+25.4	Gurkeerat Singh	SE Marsh	1 run
+25.5	Gurkeerat Singh	Bailey	no run
+25.6	Gurkeerat Singh	Bailey	1 run
+26.1	Jadeja	Bailey	OUT
+26.2	Jadeja	Maxwell	no run
+26.3	Jadeja	Maxwell	no run
+26.4	Jadeja	Maxwell	no run
+26.5	Jadeja	Maxwell	no run
+26.6	Jadeja	Maxwell	1 run
+27.1	I Sharma	Maxwell	no run
+27.2	I Sharma	Maxwell	no run
+27.3	I Sharma	Maxwell	2 runs
+27.4	I Sharma	Maxwell	1 run
+27.5	I Sharma	SE Marsh	no run
+27.6	I Sharma	SE Marsh	no run
+28.1	Jadeja	Maxwell	FOUR
+28.2	Jadeja	Maxwell	no run
+28.3	Jadeja	Maxwell	no run
+28.4	Jadeja	Maxwell	1 wide
+28.4	Jadeja	Maxwell	2 runs
+28.5	Jadeja	Maxwell	no run
+28.6	Jadeja	Maxwell	1 run
+29.1	I Sharma	Maxwell	1 run
+29.2	I Sharma	SE Marsh	no run
+29.3	I Sharma	SE Marsh	1 run
+29.4	I Sharma	Maxwell	2 runs
+29.5	I Sharma	Maxwell	1 run
+29.6	I Sharma	SE Marsh	OUT
+30.1	Sran	Maxwell	1 run
+30.2	Sran	MR Marsh	no run
+30.3	Sran	MR Marsh	1 run
+30.4	Sran	Maxwell	FOUR
+30.5	Sran	Maxwell	1 run
+30.6	Sran	MR Marsh	FOUR
+31.1	I Sharma	Maxwell	FOUR
+31.2	I Sharma	Maxwell	no run
+31.3	I Sharma	Maxwell	1 run
+31.4	I Sharma	MR Marsh	no run
+31.5	I Sharma	MR Marsh	1 leg bye
+31.6	I Sharma	Maxwell	1 run
+32.1	Yadav	Maxwell	no run
+32.2	Yadav	Maxwell	1 run
+32.3	Yadav	MR Marsh	no run
+32.4	Yadav	MR Marsh	no run
+32.5	Yadav	MR Marsh	FOUR
+32.6	Yadav	MR Marsh	FOUR
+33.1	Sran	Maxwell	no run
+33.2	Sran	Maxwell	no run
+33.3	Sran	Maxwell	2 runs
+33.4	Sran	Maxwell	1 run
+33.5	Sran	MR Marsh	no run
+33.6	Sran	MR Marsh	2 runs
+34.1	Yadav	Maxwell	no run
+34.2	Yadav	Maxwell	no run
+34.3	Yadav	Maxwell	1 run
+34.4	Yadav	MR Marsh	no run
+34.5	Yadav	MR Marsh	no run
+34.6	Yadav	MR Marsh	2 runs
+35.1	Sran	Maxwell	2 runs
+35.2	Sran	Wade	1 run
+35.3	Sran	Maxwell	1 run
+35.4	Sran	Wade	no run
+35.5	Sran	Wade	no run
+35.6	Sran	Wade	no run
+36.1	I Sharma	Maxwell	1 run
+36.2	I Sharma	Wade	1 run
+36.3	I Sharma	Maxwell	1 run
+36.4	I Sharma	Wade	1 run
+36.5	I Sharma	Maxwell	no run
+36.6	I Sharma	Maxwell	no run
+37.1	Sran	Wade	1 run
+37.2	Sran	Maxwell	no run
+37.3	Sran	Maxwell	1 run
+37.4	Sran	Wade	1 run
+37.5	Sran	Maxwell	1 run
+37.6	Sran	Wade	1 run
+38.1	I Sharma	Wade	OUT
+38.2	I Sharma	Maxwell	1 run
+38.3	I Sharma	Faulkner	no run
+38.4	I Sharma	Faulkner	1 run
+38.5	I Sharma	Maxwell	no run
+38.6	I Sharma	Maxwell	1 run
+39.1	Sran	Maxwell	FOUR
+39.2	Sran	Maxwell	2 runs
+39.3	Sran	Maxwell	no run
+39.4	Sran	Maxwell	1 wide
+39.4	Sran	Maxwell	SIX
+39.5	Sran	Maxwell	no run
+39.6	Sran	Maxwell	no run
+40.1	Yadav	Faulkner	no run
+40.2	Yadav	Faulkner	1 run
+40.3	Yadav	Maxwell	no run
+40.4	Yadav	Maxwell	no run
+40.5	Yadav	Maxwell	no run
+40.6	Yadav	Maxwell	no run
+41.1	Jadeja	Faulkner	1 run
+41.2	Jadeja	Maxwell	1 run
+41.3	Jadeja	Faulkner	1 run
+41.4	Jadeja	Maxwell	1 run
+41.5	Jadeja	Faulkner	no run
+41.6	Jadeja	Faulkner	1 run
+42.1	Yadav	Faulkner	no run
+42.2	Yadav	Faulkner	no run
+42.3	Yadav	Faulkner	1 run
+42.4	Yadav	Maxwell	SIX
+42.5	Yadav	Maxwell	2 runs
+42.6	Yadav	Maxwell	(no ball) FOUR
+42.6	Yadav	Maxwell	1 run
+43.1	Jadeja	Maxwell	no run
+43.2	Jadeja	Maxwell	2 runs
+43.3	Jadeja	Maxwell	1 run
+43.4	Jadeja	Faulkner	1 run
+43.5	Jadeja	Maxwell	no run
+43.6	Jadeja	Maxwell	1 run
+44.1	I Sharma	Maxwell	1 run
+44.2	I Sharma	Faulkner	1 run
+44.3	I Sharma	Maxwell	no run
+44.4	I Sharma	Maxwell	no run
+44.5	I Sharma	Maxwell	1 run
+44.6	I Sharma	Faulkner	1 run
+45.1	Jadeja	Faulkner	FOUR
+45.2	Jadeja	Faulkner	1 run
+45.3	Jadeja	Maxwell	FOUR
+45.4	Jadeja	Maxwell	no run
+45.5	Jadeja	Maxwell	no run
+45.6	Jadeja	Maxwell	1 run
+46.1	I Sharma	Maxwell	FOUR
+46.2	I Sharma	Maxwell	1 run
+46.3	I Sharma	Faulkner	no run
+46.4	I Sharma	Faulkner	2 runs
+46.5	I Sharma	Faulkner	no run
+46.6	I Sharma	Faulkner	2 runs
+47.1	Jadeja	Maxwell	1 run
+47.2	Jadeja	Faulkner	no run
+47.3	Jadeja	Faulkner	no run
+47.4	Jadeja	Faulkner	2 runs
+47.5	Jadeja	Faulkner	1 leg bye
+47.6	Jadeja	Maxwell	1 run
+48.1	Yadav	Maxwell	no run
+48.2	Yadav	Maxwell	SIX
+48.3	Yadav	Maxwell	FOUR
+48.4	Yadav	Maxwell	OUT
+48.5	Yadav	Faulkner	1 run
