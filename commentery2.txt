@@ -1,0 +1,312 @@
+0.1	Richardson	RG Sharma	no run
+0.2	Richardson	RG Sharma	no run
+0.3	Richardson	RG Sharma	2 runs
+0.4	Richardson	RG Sharma	1 run
+0.5	Richardson	S Dhawan	no run
+0.6	Richardson	S Dhawan	no run
+1.1	Hastings	RG Sharma	1 run
+1.2	Hastings	S Dhawan	no run
+1.3	Hastings	S Dhawan	1 wide
+1.3	Hastings	S Dhawan	no run
+1.4	Hastings	S Dhawan	no run
+1.5	Hastings	S Dhawan	no run
+1.6	Hastings	S Dhawan	FOUR
+2.1	Richardson	RG Sharma	no run
+2.2	Richardson	RG Sharma	1 run
+2.3	Richardson	S Dhawan	no run
+2.4	Richardson	S Dhawan	no run
+2.5	Richardson	S Dhawan	no run
+2.6	Richardson	S Dhawan	no run
+3.1	Hastings	RG Sharma	1 run
+3.2	Hastings	S Dhawan	FOUR
+3.3	Hastings	S Dhawan	no run
+3.4	Hastings	S Dhawan	no run
+3.5	Hastings	S Dhawan	no run
+3.6	Hastings	S Dhawan	no run
+4.1	Richardson	RG Sharma	no run
+4.2	Richardson	RG Sharma	no run
+4.3	Richardson	RG Sharma	OUT
+4.4	Richardson	Kohli	1 run
+4.5	Richardson	S Dhawan	no run
+4.6	Richardson	S Dhawan	no run
+5.1	Hastings	Kohli	no run
+5.2	Hastings	Kohli	no run
+5.3	Hastings	Kohli	no run
+5.4	Hastings	Kohli	1 run
+5.5	Hastings	S Dhawan	no run
+5.6	Hastings	S Dhawan	no run
+6.1	Richardson	Kohli	1 run
+6.2	Richardson	S Dhawan	no run
+6.3	Richardson	S Dhawan	1 run
+6.4	Richardson	Kohli	1 wide
+6.4	Richardson	Kohli	no run
+6.5	Richardson	Kohli	1 run
+6.6	Richardson	S Dhawan	1 leg bye
+7.1	Hastings	S Dhawan	1 run
+7.2	Hastings	Kohli	no run
+7.3	Hastings	Kohli	no run
+7.4	Hastings	Kohli	3 runs
+7.5	Hastings	S Dhawan	2 runs
+7.6	Hastings	S Dhawan	no run
+8.1	Richardson	Kohli	no run
+8.2	Richardson	Kohli	FOUR
+8.3	Richardson	Kohli	no run
+8.4	Richardson	Kohli	3 runs
+8.5	Richardson	S Dhawan	no run
+8.6	Richardson	S Dhawan	no run
+9.1	Faulkner	Kohli	1 run
+9.2	Faulkner	S Dhawan	1 run
+9.3	Faulkner	Kohli	1 run
+9.4	Faulkner	S Dhawan	1 run
+9.5	Faulkner	Kohli	FOUR
+9.6	Faulkner	Kohli	no run
+10.1	Boland	S Dhawan	no run
+10.2	Boland	S Dhawan	1 run
+10.3	Boland	Kohli	no run
+10.4	Boland	Kohli	no run
+10.5	Boland	Kohli	1 run
+10.6	Boland	S Dhawan	1 run
+11.1	Faulkner	S Dhawan	no run
+11.2	Faulkner	S Dhawan	no run
+11.3	Faulkner	S Dhawan	FOUR
+11.4	Faulkner	S Dhawan	1 run
+11.5	Faulkner	Kohli	no run
+11.6	Faulkner	Kohli	no run
+12.1	Maxwell	S Dhawan	no run
+12.2	Maxwell	S Dhawan	1 run
+12.3	Maxwell	Kohli	1 run
+12.4	Maxwell	S Dhawan	2 runs
+12.5	Maxwell	S Dhawan	1 run
+12.6	Maxwell	Kohli	no run
+13.1	Faulkner	S Dhawan	no run
+13.2	Faulkner	S Dhawan	no run
+13.3	Faulkner	S Dhawan	no run
+13.4	Faulkner	S Dhawan	no run
+13.5	Faulkner	S Dhawan	1 run
+13.6	Faulkner	Kohli	1 run
+14.1	Maxwell	Kohli	1 run
+14.2	Maxwell	S Dhawan	1 run
+14.3	Maxwell	Kohli	no run
+14.4	Maxwell	Kohli	1 run
+14.5	Maxwell	S Dhawan	1 leg bye
+14.6	Maxwell	Kohli	no run
+15.1	Faulkner	S Dhawan	1 run
+15.2	Faulkner	Kohli	1 run
+15.3	Faulkner	S Dhawan	1 run
+15.4	Faulkner	Kohli	1 run
+15.5	Faulkner	S Dhawan	no run
+15.6	Faulkner	S Dhawan	1 run
+16.1	Maxwell	S Dhawan	no run
+16.2	Maxwell	S Dhawan	no run
+16.3	Maxwell	S Dhawan	1 run
+16.4	Maxwell	Kohli	1 run
+16.5	Maxwell	S Dhawan	1 run
+16.6	Maxwell	Kohli	1 run
+17.1	Boland	Kohli	1 run
+17.2	Boland	S Dhawan	no run
+17.3	Boland	S Dhawan	no run
+17.4	Boland	S Dhawan	no run
+17.5	Boland	S Dhawan	no run
+17.6	Boland	S Dhawan	1 wide
+17.6	Boland	S Dhawan	FOUR
+18.1	MR Marsh	Kohli	1 run
+18.2	MR Marsh	S Dhawan	no run
+18.3	MR Marsh	S Dhawan	no run
+18.4	MR Marsh	S Dhawan	1 run
+18.5	MR Marsh	Kohli	1 run
+18.6	MR Marsh	S Dhawan	no run
+19.1	Boland	Kohli	2 runs
+19.2	Boland	Kohli	1 run
+19.3	Boland	S Dhawan	1 run
+19.4	Boland	Kohli	no run
+19.5	Boland	Kohli	1 run
+19.6	Boland	S Dhawan	no run
+20.1	MR Marsh	Kohli	FOUR
+20.2	MR Marsh	Kohli	1 run
+20.3	MR Marsh	S Dhawan	no run
+20.4	MR Marsh	S Dhawan	no run
+20.5	MR Marsh	S Dhawan	FOUR
+20.6	MR Marsh	S Dhawan	no run
+21.1	Boland	Kohli	no run
+21.2	Boland	Kohli	2 runs
+21.3	Boland	Kohli	no run
+21.4	Boland	Kohli	FOUR
+21.5	Boland	Kohli	2 runs
+21.6	Boland	Kohli	no run
+22.1	Maxwell	S Dhawan	no run
+22.2	Maxwell	S Dhawan	2 runs
+22.3	Maxwell	S Dhawan	FOUR
+22.4	Maxwell	S Dhawan	1 run
+22.5	Maxwell	Kohli	1 run
+22.6	Maxwell	S Dhawan	1 run
+23.1	Richardson	S Dhawan	1 run
+23.2	Richardson	Kohli	no run
+23.3	Richardson	Kohli	1 run
+23.4	Richardson	S Dhawan	no run
+23.5	Richardson	S Dhawan	1 run
+23.6	Richardson	Kohli	no run
+24.1	Maxwell	S Dhawan	no run
+24.2	Maxwell	S Dhawan	no run
+24.3	Maxwell	S Dhawan	FOUR
+24.4	Maxwell	S Dhawan	1 run
+24.5	Maxwell	Kohli	no run
+24.6	Maxwell	Kohli	no run
+25.1	Richardson	S Dhawan	1 run
+25.2	Richardson	Kohli	1 run
+25.3	Richardson	S Dhawan	no run
+25.4	Richardson	S Dhawan	2 runs
+25.5	Richardson	S Dhawan	FOUR
+25.6	Richardson	S Dhawan	no run
+26.1	Hastings	Kohli	2 runs
+26.2	Hastings	Kohli	1 run
+26.3	Hastings	S Dhawan	no run
+26.4	Hastings	S Dhawan	FOUR
+26.5	Hastings	S Dhawan	OUT
+26.6	Hastings	Rahane	no run
+27.1	Maxwell	Kohli	1 run
+27.2	Maxwell	Rahane	1 run
+27.3	Maxwell	Kohli	no run
+27.4	Maxwell	Kohli	1 run
+27.5	Maxwell	Rahane	1 run
+27.6	Maxwell	Kohli	1 leg bye
+28.1	Hastings	Kohli	1 run
+28.2	Hastings	Rahane	1 run
+28.3	Hastings	Kohli	no run
+28.4	Hastings	Kohli	no run
+28.5	Hastings	Kohli	1 run
+28.6	Hastings	Rahane	no run
+29.1	Maxwell	Kohli	1 run
+29.2	Maxwell	Rahane	no run
+29.3	Maxwell	Rahane	1 run
+29.4	Maxwell	Kohli	1 run
+29.5	Maxwell	Rahane	1 run
+29.6	Maxwell	Kohli	1 run
+30.1	Hastings	Kohli	1 run
+30.2	Hastings	Rahane	1 run
+30.3	Hastings	Kohli	1 run
+30.4	Hastings	Rahane	FOUR
+30.5	Hastings	Rahane	no run
+30.6	Hastings	Rahane	no run
+31.1	Maxwell	Kohli	no run
+31.2	Maxwell	Kohli	no run
+31.3	Maxwell	Kohli	1 run
+31.4	Maxwell	Rahane	2 runs
+31.5	Maxwell	Rahane	no run
+31.6	Maxwell	Rahane	1 run
+32.1	Faulkner	Rahane	1 run
+32.2	Faulkner	Kohli	FOUR
+32.3	Faulkner	Kohli	1 run
+32.4	Faulkner	Rahane	no run
+32.5	Faulkner	Rahane	no run
+32.6	Faulkner	Rahane	no run
+33.1	Maxwell	Kohli	1 run
+33.2	Maxwell	Rahane	FOUR
+33.3	Maxwell	Rahane	1 run
+33.4	Maxwell	Kohli	no run
+33.5	Maxwell	Kohli	1 run
+33.6	Maxwell	Rahane	no run
+34.1	Faulkner	Kohli	no run
+34.2	Faulkner	Kohli	no run
+34.3	Faulkner	Kohli	no run
+34.4	Faulkner	Kohli	no run
+34.5	Faulkner	Kohli	1 run
+34.6	Faulkner	Rahane	no run
+35.1	Boland	Kohli	no run
+35.2	Boland	Kohli	2 runs
+35.3	Boland	Kohli	SIX
+35.4	Boland	Kohli	1 run
+Boland	to Rahane,
+	
+	1 run
+35.6	Boland	Kohli	2 runs
+36.1	Faulkner	Rahane	no run
+36.2	Faulkner	Rahane	no run
+36.3	Faulkner	Rahane	FOUR
+36.4	Faulkner	Rahane	no run
+36.5	Faulkner	Rahane	no run
+36.6	Faulkner	Rahane	1 run
+37.1	Boland	Rahane	no run
+37.2	Boland	Rahane	no run
+37.3	Boland	Rahane	2 runs
+37.4	Boland	Rahane	no run
+37.5	Boland	Rahane	1 run
+37.6	Boland	Kohli	1 run
+38.1	Richardson	Kohli	no run
+38.2	Richardson	Kohli	no run
+38.3	Richardson	Kohli	1 run
+38.4	Richardson	Rahane	1 run
+38.5	Richardson	Kohli	1 run
+38.6	Richardson	Rahane	no run
+39.1	Boland	Kohli	1 run
+39.2	Boland	Rahane	SIX
+39.3	Boland	Rahane	1 run
+39.4	Boland	Kohli	1 run
+39.5	Boland	Rahane	1 leg bye
+39.6	Boland	Kohli	1 run
+40.1	Richardson	Kohli	1 run
+40.2	Richardson	Rahane	1 run
+40.3	Richardson	Kohli	1 run
+40.4	Richardson	Rahane	FOUR
+40.5	Richardson	Rahane	1 run
+40.6	Richardson	Kohli	no run
+41.1	Boland	Rahane	no run
+41.2	Boland	Rahane	no run
+41.3	Boland	Rahane	1 run
+41.4	Boland	Kohli	1 run
+41.5	Boland	Rahane	1 run
+41.6	Boland	Kohli	2 runs
+42.1	Richardson	Rahane	no run
+42.2	Richardson	Rahane	1 run
+42.3	Richardson	Kohli	FOUR
+42.4	Richardson	Kohli	1 run
+42.5	Richardson	Rahane	2 wides
+42.5	Richardson	Kohli	1 run
+42.6	Richardson	Rahane	1 run
+43.1	Boland	Rahane	1 run
+43.2	Boland	Kohli	1 run
+43.3	Boland	Rahane	1 leg bye
+43.4	Boland	Kohli	1 run
+43.5	Boland	Rahane	1 run
+43.6	Boland	Kohli	SIX
+44.1	Hastings	Rahane	2 runs
+44.2	Hastings	Rahane	OUT
+44.3	Hastings	Kohli	no run
+44.4	Hastings	Kohli	2 runs
+44.5	Hastings	Kohli	FOUR
+44.6	Hastings	Kohli	no run
+45.1	Faulkner	Dhoni	1 run
+45.2	Faulkner	Kohli	1 wide
+45.2	Faulkner	Kohli	1 run
+45.3	Faulkner	Dhoni	SIX
+45.4	Faulkner	Dhoni	1 wide
+45.4	Faulkner	Dhoni	FOUR
+45.5	Faulkner	Dhoni	1 run
+45.6	Faulkner	Kohli	1 run
+46.1	Hastings	Kohli	no run
+46.2	Hastings	Kohli	OUT
+46.3	Hastings	Gurkeerat Singh	no run
+46.4	Hastings	Gurkeerat Singh	no run
+46.5	Hastings	Gurkeerat Singh	2 runs
+46.6	Hastings	Gurkeerat Singh	1 run
+47.1	Faulkner	Gurkeerat Singh	1 run
+47.2	Faulkner	Dhoni	1 run
+47.3	Faulkner	Gurkeerat Singh	FOUR
+47.4	Faulkner	Gurkeerat Singh	OUT
+47.5	Faulkner	Jadeja	2 runs
+47.6	Faulkner	Jadeja	1 run
+48.1	Hastings	Jadeja	1 run
+48.2	Hastings	Dhoni	no run
+48.3	Hastings	Dhoni	FOUR
+48.4	Hastings	Dhoni	SIX
+48.5	Hastings	Dhoni	OUT
+48.6	Hastings	Jadeja	1 run
+49.1	Faulkner	Jadeja	2 wides
+49.1	Faulkner	R Dhawan	no run
+49.2	Faulkner	R Dhawan	2 runs
+49.3	Faulkner	R Dhawan	1 run
+49.4	Faulkner	Jadeja	1 run
+49.5	Faulkner	R Dhawan	no run
+49.6	Faulkner	R Dhawan	no run
+Faulkner closes the innings with his assortment of slower balls. Rishi swings wildly, but can't lay bat on it		
+	Faulkner closes the innings with his assortment of slower balls. Rishi swings wildly, but can't lay bat on it		
+	ses the innings with his assortment of slower balls. Rishi swings wildly	Faulkner closes the innings with his assortment of slower balls. Rishi swings wildly
